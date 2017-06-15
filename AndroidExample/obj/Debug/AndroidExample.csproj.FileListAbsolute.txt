@@ -1,0 +1,15 @@
+c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\AndroidExample\bin\Debug\AndroidExample.dll
+c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\AndroidExample\bin\Debug\AndroidExample.pdb
+c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\AndroidExample\bin\Debug\AndroidExample.AndroidExample.apk
+c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\AndroidExample\bin\Debug\AndroidExample.AndroidExample-Signed.apk
+c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\AndroidExample\obj\Debug\AndroidExample.csprojResolveAssemblyReference.cache
+c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\AndroidExample\obj\Debug\AndroidExample.dll
+c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\AndroidExample\obj\Debug\AndroidExample.pdb
+c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\AndroidExample\obj\Debug\android\bin\AndroidExample.AndroidExample.apk
+c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\AndroidExample\obj\Debug\res\layout\main.xml
+c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\AndroidExample\obj\Debug\res\values\strings.xml
+c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\AndroidExample\obj\Debug\res\drawable\icon.png
+c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\AndroidExample\obj\Debug\R.cs.flag
+c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\AndroidExample\obj\Debug\uploadflags.txt
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\AndroidExample\AndroidExample\obj\Debug\AndroidExample.dll.mdb
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\AndroidExample\AndroidExample\bin\Debug\AndroidExample.dll.mdb

@@ -1,0 +1,12 @@
+﻿<xapCache source="c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\WinPhoneExample\Bin\Debug\WinPhoneExample_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="25/03/2016 15:46:20">
+  <file source="c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\WinPhoneExample\obj\Debug\WinPhoneExample.dll" archivePath="WinPhoneExample.dll" lastWriteTime="25/03/2016 15:46:20" />
+  <file source="c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\WinPhoneExample\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="25/03/2016 15:34:35" />
+  <file source="c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\WinPhoneExample\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="25/03/2016 15:34:35" />
+  <file source="c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\WinPhoneExample\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="25/03/2016 15:34:35" />
+  <file source="c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\WinPhoneExample\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="25/03/2016 15:34:35" />
+  <file source="c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\WinPhoneExample\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="25/03/2016 15:34:35" />
+  <file source="c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\WinPhoneExample\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="25/03/2016 15:34:51" />
+  <file source="c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\WinPhoneExample\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="25/03/2016 15:34:35" />
+  <file source="c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\WinPhoneExample\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="25/03/2016 15:34:35" />
+  <file source="c:\users\tiago\documents\visual studio 2015\Projects\AndroidExample\WinPhoneExample\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="25/03/2016 15:34:52" />
+</xapCache>

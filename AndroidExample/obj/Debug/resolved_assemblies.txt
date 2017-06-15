@@ -1,0 +1,9 @@
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\AndroidExample\AndroidExample\obj\Debug\assemblies\AndroidExample.dll
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\AndroidExample\AndroidExample\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\AndroidExample\AndroidExample\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\AndroidExample\AndroidExample\obj\Debug\assemblies\System.Core.dll
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\AndroidExample\AndroidExample\obj\Debug\assemblies\System.dll
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\AndroidExample\AndroidExample\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\AndroidExample\AndroidExample\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\AndroidExample\AndroidExample\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\AndroidExample\AndroidExample\obj\Debug\assemblies\System.ServiceModel.Internals.dll

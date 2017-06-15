@@ -1,0 +1,4 @@
+AndroidExample.MainActivity, AndroidExample;md5a161841acd0cbf6d89e004bb944af2c9.MainActivity
+AndroidExample.MainActivity, AndroidExample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a161841acd0cbf6d89e004bb944af2c9.MainActivity
+AndroidExample.MainActivity;md5a161841acd0cbf6d89e004bb944af2c9.MainActivity
+androidexample.MainActivity;md5a161841acd0cbf6d89e004bb944af2c9.MainActivity
